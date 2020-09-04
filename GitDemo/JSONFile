@@ -1,0 +1,15 @@
+{
+  "employee" :
+     {
+        "name" : "chaitanya",
+        "age" : 34
+     },
+     {
+        "name" : "scott",
+        "age" : 36
+     }
+     
+     }
+     
+
+}
